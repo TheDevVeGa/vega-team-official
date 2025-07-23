@@ -16,7 +16,7 @@
 - البوتات تدعم الذكاء الاصطناعي، التحكم بالمجموعات، والأدوات التفاعلية.
 
 ## جهة الاتصال
-- البريد الإلكتروني:`vegamusicteam44@gmail.com` (مثال فقط)
+- البريد الإلكتروني:`vegamusicteam44@gmail.com` 
 - قناة التليجرام: [@vegaone](https://t.me/vegaone)
 - المبرمج كريم: [@topvega](https://t.me/topvega)
 - المبرمج محمود: [@devvega](https://t.me/devvega)
